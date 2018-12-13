@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Shivam Khandelwal
 
-You can use the [editor on GitHub](https://github.com/shivam1702/skq225.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a motivated Artificial Intelligence practitioner with a vision to conduct high quality research in AI for mass benefit. Being a creative person myself, I believe that machines should be used to simplify everyday tasks so that people can be more creative and engage in artistic ventures, than being tired down with the monotonicity of their job. I have rich experience in NLP with deep learning and want to explore multiple tracks of this branch to combine cross domain knowledge to create solutions, like using NLP and cognitive computing for treatment of psychological diseases.
+Prior to this, I also researched in battery technology for mobile devices and PHEVs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivam1702/skq225.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Phone: +91-9461482200
+Email: skq225@gmail.com
+[LinkedIn](https://www.linkedin.com/in/shivamkhn/)
